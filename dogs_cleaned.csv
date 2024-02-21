@@ -1,0 +1,84 @@
+,Breed,Classification,obey,reps_lower,reps_upper,Country of Origin,Fur Color,Height,Color of Eyes,Longevity (yrs),bladder stones,cancer,ear infections,eye issues,elbow dysplasia,eye problems,dental problems,respiratory issues,heart conditions,diabetes,hip dysplasia,pancreatitis,intervertebral disc disease,obesity,epilepsy,hereditary myopathy,breathing problems,skin allergies,kind,intelligent,strong,gentle,athletic,charming,calm,brave,curious,trainable,independent,good-natured,hypoallergenic,energetic,playful,affectionate,active,social,loyal,confident,patient,sensitive,friendly,protective
+0,border collie,Above Average,95,1,4,England,"Black, White, Red",20.0,Brown,13.5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+1,poodle,Above Average,95,1,4,France,"White, Black, Brown, Apricot",12.5,"Brown, Blue",13.5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+2,german shepherd,Above Average,95,1,4,Germany,"Black, Tan",24.0,Brown,8.5,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+3,golden retriever,Above Average,95,1,4,Scotland,Golden,22.5,Brown,11.0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
+4,doberman pinscher,Above Average,95,1,4,Germany,"Black, Red",26.0,Brown,11.0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+5,shetland sheepdog,Above Average,95,1,4,Scotland,"Sable, Black",14.5,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+6,labrador retriever,Above Average,95,1,4,Canada,"Yellow, Black, Chocolate",22.5,Brown,11.0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0
+7,papillon,Above Average,95,1,4,France,"White, Black, Sable, Red",9.5,Brown,15.0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+8,rottweiler,Above Average,95,1,4,Germany,"Black, Tan",24.5,Brown,9.0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+9,australian cattle dog,Above Average,95,1,4,Australia,"Blue, Red",18.5,Brown,14.0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+10,miniature schnauzer,Above Average,85,5,15,Germany,"Black, Salt & Pepper, White",13.0,Brown,13.5,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+11,english springer spaniel,Above Average,85,5,15,England,"Black, White, Liver",22.0,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+12,keeshond,Above Average,85,5,15,Netherlands,"Black, Cream",18.0,Brown,13.5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+13,flat-coated retriever,Above Average,85,5,15,England,"Black, Liver",23.5,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+14,standard schnauzer,Above Average,85,5,15,Germany,"Black, Salt & Pepper",19.0,Brown,13.5,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+15,cocker spaniel,Above Average,85,5,15,England,"Black, Brown",14.5,Brown,13.5,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+16,weimaraner,Above Average,85,5,15,Germany,"Silver, Grey",27.0,"Blue, Grey",11.0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+17,belgian malinois,Above Average,85,5,15,Belgium,"Fawn, Mahogany",24.0,Brown,13.0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+18,pomeranian,Above Average,85,5,15,Germany,"Orange, Sable, Black",6.5,Brown,14.0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+19,irish water spaniel,Above Average,85,5,15,Ireland,Brown,22.5,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+20,vizsla,Above Average,85,5,15,Hungary,Red,22.0,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+21,cardigan welsh corgi,Above Average,85,5,15,Wales,"Red, Sable, Black",11.0,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+22,chesapeake bay retriever,Above Average,70,16,25,United States,"Brown, Tan",23.5,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+23,yorkshire terrier,Above Average,70,16,25,England,Blue & Tan,7.5,Brown,13.5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+24,giant schnauzer,Above Average,70,16,25,Germany,"Black, Salt & Pepper",26.5,Brown,11.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+25,border terrier,Above Average,70,16,25,England,"Red, Wheaten, Black",13.0,Brown,14.0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+26,welsh springer spaniel,Above Average,70,16,25,Wales,"Liver, White",22.5,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+27,samoyed,Above Average,70,16,25,Russia,White,22.0,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+28,field spaniel,Above Average,70,16,25,England,"Black, Liver",16.5,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+29,newfoundland,Above Average,70,16,25,Canada,"Black, Brown, Grey",27.0,Brown,10.0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+30,australian terrier,Above Average,70,16,25,Australia,"Red, Black & Tan",10.5,Brown,13.5,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+31,gordon setter,Above Average,70,16,25,Scotland,"Black, Tan",25.0,Brown,13.5,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+32,cairn terrier,Above Average,70,16,25,Scotland,"Black, Wheaten, Red",11.0,Brown,13.5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+33,kerry blue terrier,Above Average,70,16,25,Ireland,Blue,18.0,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+34,irish setter,Above Average,70,16,25,Ireland,Red,26.0,Brown,13.5,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+35,affenpinscher,Above Average,70,16,25,Germany,"Black, Brown, Red",10.0,Brown,13.5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+36,miniature pinscher,Above Average,70,16,25,Germany,"Red, Stag Red",11.0,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+37,english setter,Above Average,70,16,25,England,"Black, White, Liver",25.0,Brown,13.5,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+38,pharaoh hound,Above Average,70,16,25,Malta,Red,23.0,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+39,irish wolfhound,Average,50,26,40,Ireland,"Grey, Red, Black",32.5,Brown,7.0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+40,kuvasz,Average,50,26,40,Hungary,White,27.0,Brown,11.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+41,australian shepherd,Average,50,26,40,Australia,"Black, Red",20.5,"Brown, Blue",13.5,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+42,saluki,Average,50,26,40,Middle East,"Cream, Red",25.5,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+43,finnish spitz,Average,50,26,40,Finland,"Red, Golden",17.5,Brown,13.5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+44,pointer,Average,50,26,40,England,"Black, White, Liver",24.0,Brown,13.5,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+45,siberian husky,Average,50,26,40,Russia,"Black, White",22.5,Blue,13.5,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+46,bichon frise,Average,50,26,40,France,White,10.0,Brown,13.5,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+47,jack russell terrier,Average,50,26,40,England,"White, Black & Tan",11.0,Brown,13.5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+48,greyhound,Average,50,26,40,England,"Black, White, Brindle",28.0,Brown,11.0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+49,wirehaired pointing griffon,Average,50,26,40,Belgium,"Brown, White",22.5,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+50,west highland white terrier,Average,50,26,40,Scotland,White,11.5,Brown,14.0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+51,scottish deerhound,Average,50,26,40,Scotland,"Blue, Grey",30.0,Brown,9.0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+52,boxer,Average,50,26,40,Germany,"Fawn, Brindle",23.0,Brown,11.0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1
+53,great dane,Average,50,26,40,Germany,"Black, Blue, Fawn, Harlequin",31.0,Brown,9.0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+54,dachshund,Average,50,26,40,Germany,"Black, Tan",7.0,"Brown, Blue",13.5,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+55,staffordshire bull terrier,Average,50,26,40,England,"White, Black, Red",15.0,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+56,whippet,Average,50,26,40,England,"White, Black, Red",20.0,Brown,13.5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+57,rhodesian ridgeback,Average,50,26,40,Rhodesia,Light Wheaten,26.0,Brown,11.0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+58,welsh terrier,Average,50,26,40,Wales,"Black, Tan",11.0,Brown,13.5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+59,irish terrier,Average,50,26,40,Ireland,Red,15.0,Brown,13.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+60,boston terrier,Average,50,26,40,United States,"Black, White",16.0,Brown,12.0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+61,akita,Average,50,26,40,Japan,"Red, Fawn, Sesame",26.0,Brown,11.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+62,pug,Below Average,30,41,80,China,"Fawn, Black",12.0,Brown,13.5,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0
+63,french bulldog,Below Average,30,41,80,France,"White, Black, Brindle",11.5,Brown,11.0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+64,maltese,Below Average,30,41,80,Malta,White,9.0,Brown,13.5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+65,italian greyhound,Below Average,30,41,80,Italy,"Red, Black",14.0,Brown,13.5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+66,chinese crested,Below Average,30,41,80,China,"Pink, White, Black",12.0,Brown,15.5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+67,japanese chin,Below Average,30,41,80,Japan,"Black, Red",9.0,Brown,13.5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+68,old english sheepdog,Below Average,30,41,80,England,"Blue, Grey",24.0,Brown,11.0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+69,great pyrenees,Below Average,30,41,80,France,White,28.5,Brown,11.0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+70,saint bernard,Below Average,30,41,80,Switzerland,"Red, White",28.0,Brown,9.0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+71,bull terrier,Below Average,30,41,80,England,"White, Red",21.0,Brown,11.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+72,chihuahua,Below Average,30,41,80,Mexico,"Black, Brown, Tan, White",7.5,"Brown, Blue",16.0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0
+73,lhasa apso,Below Average,30,41,80,Tibet,"Black, White",10.5,Brown,13.5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+74,shih tzu,Below Average,30,81,100,China,"Black, White, Brown",9.5,Brown,13.0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
+75,basset hound,Below Average,30,81,100,France,"Black, Tan",13.0,Brown,11.0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+76,mastiff,Below Average,30,81,100,England,"Apricot, Fawn",32.0,Brown,9.0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+77,beagle,Below Average,30,81,100,England,"White, Tan, Red, Lemon",14.0,Brown,13.5,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+78,pekingese,Below Average,30,81,100,China,"Black, White, Red",7.5,Brown,13.5,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+79,bloodhound,Below Average,30,81,100,England,"Red, Black",24.5,Brown,11.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+80,borzoi,Below Average,30,81,100,Russia,"White, Cream, Red",27.5,Brown,11.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+81,bulldog,Below Average,30,81,100,England,"White, Red",14.0,Brown,9.0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+82,basenji,Below Average,30,81,100,Congo,"Red, Black & White",16.5,Brown,13.5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
