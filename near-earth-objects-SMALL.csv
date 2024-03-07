@@ -1,4 +1,4 @@
-,id,name,est_diameter_min,est_diameter_max,relative_velocity,miss_distance,orbiting_body,sentry_object,absolute_magnitude,hazardous
+id,name1,name2,est_diameter_min,est_diameter_max,relative_velocity,miss_distance,orbiting_body,sentry_object,absolute_magnitude,hazardous
 47749,54087742,(2020 VZ2),0.027832677,0.062235757,27296.13889,58577917.44,Earth,False,24.9,False
 82703,3840727,(2019 FQ1),0.009650615,0.021579431,61723.96117,47223558.43,Earth,False,27.2,False
 1078,2524196,524196 (2001 QP181),0.504144434,1.127301225,56467.92643,46083808.38,Earth,False,18.61,False
