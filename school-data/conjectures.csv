@@ -1,0 +1,56 @@
+,Priority date[13],Proved by,Former name,Field,Comments
+0,1962,Walter Feit and John G. Thompson,"Burnside conjecture that, apart from cyclic groups, finite simple groups have even order",finite simple groups,"Feit–Thompson theorem⇔trivially the ""odd order theorem"" that finite groups of odd order are solvable groups"
+1,1968,Gerhard Ringel and John William Theodore Youngs,Heawood conjecture,graph theory,Ringel-Youngs theorem
+2,1971,Daniel Quillen,Adams conjecture,algebraic topology,"On the J-homomorphism, proposed 1963 by Frank Adams"
+3,1973,Pierre Deligne,Weil conjectures,algebraic geometry,⇒Ramanujan–Petersson conjecture Proposed by André Weil. Deligne's theorems completed around 15 years of work on the general case.
+4,1975,Henryk Hecht and Wilfried Schmid,Blattner's conjecture,representation theory for semisimple groups,
+5,1975,William Haboush,Mumford conjecture,geometric invariant theory,Haboush's theorem
+6,1976,Kenneth Appel and Wolfgang Haken,Four color theorem,graph colouring,"Traditionally called a ""theorem"", long before the proof."
+7,1976,Daniel Quillen; and independently by Andrei Suslin,Serre's conjecture on projective modules,polynomial rings,Quillen–Suslin theorem
+8,1977,Alberto Calderón,Denjoy's conjecture,rectifiable curves,"A result claimed in 1909 by Arnaud Denjoy, proved by Calderón as a by-product of work on Cauchy singular operators[14]"
+9,1978,Roger Heath-Brown and Samuel James Patterson,Kummer's conjecture on cubic Gauss sums,equidistribution,
+10,1983,Gerd Faltings,Mordell conjecture,number theory,"⇐Faltings's theorem, the Shafarevich conjecture on finiteness of isomorphism classes of abelian varieties. The reduction step was by Alexey Parshin."
+11,1983 onwards,Neil Robertson and Paul D. Seymour,Wagner's conjecture,graph theory,Now generally known as the graph minor theorem.
+12,1983,Michel Raynaud,Manin–Mumford conjecture,diophantine geometry,The Tate–Voloch conjecture is a quantitative (diophantine approximation) derived conjecture for p-adic varieties.
+13,c.1984,Collective work,Smith conjecture,knot theory,"Based on work of William Thurston on hyperbolic structures on 3-manifolds, with results by William Meeks and Shing-Tung Yau on minimal surfaces in 3-manifolds, also with Hyman Bass, Cameron Gordon, Peter Shalen, and Rick Litherland, written up by Bass and John Morgan."
+14,1984,Louis de Branges de Bourcia,"Bieberbach conjecture, 1916",complex analysis,⇐Robertson conjecture⇐Milin conjecture⇐de Branges's theorem[15]
+15,1984,Gunnar Carlsson,Segal's conjecture,homotopy theory,
+16,1984,Haynes Miller,Sullivan conjecture,classifying spaces,Miller proved the version on mapping BG to a finite complex.
+17,1987,Grigory Margulis,Oppenheim conjecture,diophantine approximation,Margulis proved the conjecture with ergodic theory methods.
+18,1989,Vladimir I. Chernousov,Weil's conjecture on Tamagawa numbers,algebraic groups,"The problem, based on Siegel's theory for quadratic forms, submitted to a long series of case analysis steps."
+19,1990,Ken Ribet,epsilon conjecture,modular forms,
+20,1992,Richard Borcherds,Conway–Norton conjecture,sporadic groups,Usually called monstrous moonshine
+21,1994,David Harbater and Michel Raynaud,Abhyankar's conjecture,algebraic geometry,
+22,1994,Andrew Wiles,Fermat's Last Theorem,number theory,⇔The modularity theorem for semistable elliptic curves. Proof completed with Richard Taylor.
+23,1994,Fred Galvin,Dinitz conjecture,combinatorics,
+24,1995,Doron Zeilberger[16],"Alternating sign matrix conjecture,",enumerative combinatorics,
+25,1996,Vladimir Voevodsky,Milnor conjecture,algebraic K-theory,"Voevodsky's theorem, ⇐norm residue isomorphism theorem⇔Beilinson–Lichtenbaum conjecture, Quillen–Lichtenbaum conjecture.  The ambiguous term ""Bloch-Kato conjecture"" may refer to what is now the norm residue isomorphism theorem."
+26,1998,Thomas Callister Hales,Kepler conjecture,sphere packing,
+27,1998,Thomas Callister Hales and Sean McLaughlin,dodecahedral conjecture,Voronoi decompositions,
+28,2000,"Krzysztof Kurdyka, Tadeusz Mostowski, and Adam Parusiński",Gradient conjecture,gradient vector fields,"Attributed to René Thom, c.1970."
+29,2001,"Christophe Breuil, Brian Conrad, Fred Diamond and Richard Taylor",Taniyama–Shimura conjecture,elliptic curves,"Now the modularity theorem for elliptic curves. Once known as the ""Weil conjecture""."
+30,2001,Mark Haiman,n! conjecture,representation theory,
+31,2001,Daniel Frohardt and Kay Magaard[17],Guralnick–Thompson conjecture,monodromy groups,
+32,2002,Preda Mihăilescu,"Catalan's conjecture, 1844",exponential diophantine equations,⇐Pillai's conjecture⇐abc conjecture Mihăilescu's theorem
+33,2002,"Maria Chudnovsky, Neil Robertson, Paul D. Seymour, and Robin Thomas",strong perfect graph conjecture,perfect graphs,Chudnovsky–Robertson–Seymour–Thomas theorem
+34,2002,Grigori Perelman,"Poincaré conjecture, 1904",3-manifolds,
+35,2003,Grigori Perelman,geometrization conjecture of Thurston,3-manifolds,⇒spherical space form conjecture
+36,2003,Ben Green; and independently by Alexander Sapozhenko,Cameron–Erdős conjecture,sum-free sets,
+37,2003,Nils Dencker,Nirenberg–Treves conjecture,pseudo-differential operators,
+38,2004 (see comment),Nobuo Iiyori and Hiroshi Yamaki,Frobenius conjecture,group theory,"A consequence of the classification of finite simple groups, completed in 2004 by the usual standards of pure mathematics."
+39,2004,Adam Marcus and Gábor Tardos,Stanley–Wilf conjecture,permutation classes,Marcus–Tardos theorem
+40,2004,Ualbai U. Umirbaev and Ivan P. Shestakov,Nagata's conjecture on automorphisms,polynomial rings,
+41,2004,Ian Agol; and independently by Danny Calegari–David Gabai,tameness conjecture,geometric topology,⇒Ahlfors measure conjecture
+42,2008,Avraham Trahtman,Road coloring conjecture,graph theory,
+43,2008,Chandrashekhar Khare and Jean-Pierre Wintenberger,Serre's modularity conjecture,modular forms,
+44,2009,Jeremy Kahn and Vladimir Markovic,surface subgroup conjecture,3-manifolds,⇒Ehrenpreis conjecture on quasiconformality
+45,2009,Jeremie Chalopin and Daniel Gonçalves,Scheinerman's conjecture,intersection graphs,
+46,2010,Terence Tao and Van H. Vu,circular law,random matrix theory,
+47,2011,Joel Friedman; and independently by Igor Mineyev,Hanna Neumann conjecture,group theory,
+48,2012,Simon Brendle,Hsiang–Lawson's conjecture,differential geometry,
+49,2012,Fernando Codá Marques and André Neves,Willmore conjecture,differential geometry,
+50,2013,Yitang Zhang,bounded gap conjecture,number theory,The sequence of gaps between consecutive prime numbers has a finite lim inf. See Polymath Project#Polymath8 for quantitative results.
+51,2013,"Adam Marcus, Daniel Spielman and Nikhil Srivastava",Kadison–Singer problem,functional analysis,"The original problem posed by Kadison and Singer was not a conjecture: its authors believed it false. As reformulated, it became the ""paving conjecture"" for Euclidean spaces, and then a question on random polynomials, in which latter form it was solved affirmatively."
+52,2015,"Jean Bourgain, Ciprian Demeter, and Larry Guth",Main conjecture in Vinogradov's mean-value theorem,analytic number theory,"Bourgain–Demeter–Guth theorem, ⇐ decoupling theorem[18]"
+53,2018,Karim Adiprasito,g-conjecture,combinatorics,
+54,2019,Dimitris Koukoulopoulos and James Maynard,Duffin–Schaeffer conjecture,number theory,Rational approximation of irrational numbers
